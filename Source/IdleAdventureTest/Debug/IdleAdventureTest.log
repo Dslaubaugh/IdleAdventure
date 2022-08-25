@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project '..\..\Games{DE1F8B53-6C02-3C13-9101-A7C8D96F3FF6}' does not exist.
+  pch.cpp
+  test.cpp
+  IdleAdventureTest.vcxproj -> C:\Users\dwigh\Documents\IdleAdventure\Debug\IdleAdventureTest.exe
